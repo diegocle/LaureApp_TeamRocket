@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395680007878",
+    "project_id": "laureapp-fa691",
+    "storage_bucket": "laureapp-fa691.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395680007878:android:f72b61a6214e27595a79c7",
+        "android_client_info": {
+          "package_name": "it.uniba.dib.sms222312"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395680007878-jf408baqbmqt0np4ptm2afeumutrnaut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBptwEtVlfS-Yq57A6KxFQcSmLCIMo3Tx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395680007878-jf408baqbmqt0np4ptm2afeumutrnaut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
